@@ -5,6 +5,7 @@
 ## Features
 - Supports both X and Y axes
 - Automatically detects Left and Right bones
+- Mirrors whole Action (Non-destructive, can be reverted by flipping again)
 
 ## Location
 `VIEW3D > Right Click`
